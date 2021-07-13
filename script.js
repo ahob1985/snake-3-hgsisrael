@@ -110,7 +110,7 @@ function resetGame() {
 }
 
 function modelReady() {
-
+  
 }
 
 function gotResults(error, results) {
